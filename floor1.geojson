@@ -4,8 +4,8 @@
       "type": "floor1",
       "base_height": 0,
       "height": 4,
-      "colour": "rgb(133,239,255)",
-      "inital_zoom": 18
+      "colour": "rgb(136,136,136)",
+      "inital_zoom": 22
     },
     "geometry": {
       "coordinates": [
