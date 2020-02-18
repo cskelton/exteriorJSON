@@ -33,7 +33,7 @@
       "properties": {
         "type": "floor1_zone",
         "base_height": 4,
-        "height": 4,
+        "height": 4.1,
         "colour": "rgb(81,108,90)",
         "name": "Room 4",
         "parent_layer": "floor1"
@@ -79,7 +79,7 @@
   "properties": {
     "type": "floor1_zone",
     "base_height": 4,
-    "height": 4,
+    "height": 4.1,
     "colour": "rgb(81,108,90)",
     "name": "Room 4",
     "parent_layer": "floor1"
@@ -117,7 +117,7 @@
   "properties": {
     "type": "floor1_zone",
     "base_height": 4,
-    "height": 4,
+    "height": 4.1,
     "colour": "rgb(81,108,90)",
     "name": "Room 4",
     "parent_layer": "floor1"
@@ -155,7 +155,7 @@
   "properties": {
     "type": "floor1_zone",
     "base_height": 4,
-    "height": 4,
+    "height": 4.1,
     "colour": "rgb(81,108,90)",
     "name": "Room 4",
     "parent_layer": "floor1"
