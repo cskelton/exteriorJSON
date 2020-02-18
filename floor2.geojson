@@ -4,7 +4,7 @@
       "type": "floor2",
       "base_height": 4,
       "height": 8,
-      "colour": "rgb(147,147,147)",
+      "colour": "rgb(183,183,183)",
       "inital_zoom": 20
     },
     "geometry": {
