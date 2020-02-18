@@ -34,7 +34,7 @@
         "type": "floor1_zone",
         "base_height": 4,
         "height": 4.1,
-        "colour": "rgb(81,108,90)",
+        "colour": "rgb(217,54,78)",
         "name": "Room 4",
         "parent_layer": "floor1"
       }
@@ -80,7 +80,7 @@
     "type": "floor1_zone",
     "base_height": 4,
     "height": 4.1,
-    "colour": "rgb(81,108,90)",
+    "colour": "rgb(17,24,136)",
     "name": "Room 4",
     "parent_layer": "floor1"
   }
@@ -118,7 +118,7 @@
     "type": "floor1_zone",
     "base_height": 4,
     "height": 4.1,
-    "colour": "rgb(81,108,90)",
+    "colour": "rgb(214,114,49)",
     "name": "Room 4",
     "parent_layer": "floor1"
   }
