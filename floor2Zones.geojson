@@ -41,7 +41,7 @@
       "properties": {
         "type": "floor2_zone",
         "base_height": 8,
-        "height": 8,
+        "height": 8.1,
         "colour": "rgb(217,54,78)",
         "name": "Room 5",
         "parent_layer": "floor2"
@@ -95,7 +95,7 @@
   "properties": {
     "type": "floor2_zone",
     "base_height": 8,
-    "height": 8,
+    "height": 8.1,
     "colour": "rgb(17,24,136)",
     "name": "Room 6",
     "parent_layer": "floor2"
